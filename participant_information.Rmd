@@ -1,0 +1,17 @@
+---
+title: "Participant Information"
+author: "Brad Duthie"
+date: "2024-09-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This website will provide a full overview of the project.
+
+Research project title
+---------------------------------
+
+Restoring Ecosystems to Stop the Threat of Re-Emerging Infectious Disease (RestoreID)
