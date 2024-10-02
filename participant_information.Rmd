@@ -9,9 +9,98 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This website will provide a full overview of the project.
+
+![](img/UoS.png)
+
+![](img/UKRI.png)
+
 
 Research project title
 ---------------------------------
 
-Restoring Ecosystems to Stop the Threat of Re-Emerging Infectious Disease (RestoreID)
+**Restoring Ecosystems to Stop the Threat of Re-Emerging Infectious Disease (RestoreID)**
+
+
+Overview
+----------------------------------
+
+You are invited to play the game 'restore', which has been designed with the game company [Glitchers](https://www.glitchers.com/) and is part of an academic research project called [RestoreID](https://restoreid.eu/) (HORIZON-CL6-2023-BIODIV-01-17).
+This research project investigates the relationship between nature restoration, biodiversity, and disease prevention. 
+RestoreID is an EU funded project, and the restore game is funded through the UK Research and Innovation (UKRI) Horizon Europe guarantee scheme.
+The restore game is led by [Dr Brad Duthie](https://www.stir.ac.uk/people/256880) at the [University of Stirling](https://www.stir.ac.uk/).
+The game will take between 5-20 minutes to play, depending on the level that you select.
+Only your in-game decisions will be recorded for research purposes, and no personal identifiable data will be recorded.
+
+Do I have to take part?
+----------------------------------
+
+No. You do not have to take part and can exit the game at any time without any penalty.
+If you withdraw before the game ends, then we will not collect any more data from you.
+However, any data collected up until the point that you withdraw will be kept and might be used for data analysis.
+
+Are there any potential risks in taking part?
+----------------------------------
+
+There are no foreseeable risks in taking part.
+
+Are there any benefits in taking part?
+----------------------------------
+
+There will be no direct benefit to you from taking part in this research.
+
+
+What happens to the data that I provide?
+-------------------------------------
+
+Only your in-game decisions will be recorded and stored on a secure server; no personal information will be recorded.
+Data will be analysed to help us better understand how people make decisions related to the restoration of ecosystems. 
+
+Future uses of the data
+------------------------------------
+
+Due to the nature of this research, it is very likely that other researchers may find the data to be useful in answering other research questions. 
+Data will be available for other researchers to use in this way.
+You will not be identifiable by the data collected in the game.
+
+Will the research be published?
+-------------------------------------
+
+The research will be published in an open access peer-reviewed journal. 
+You will not be identifiable in any report or publication.
+The University of Stirling is committed to making the outputs of research publicly accessible and supports this commitment through our online open access repository STORRE.
+Unless funder or publisher requirements prevent us, this research will be publicly disseminated through our open access repository. Summary reports and media articles may be produced, but you will not be identifiable in any outputs.
+
+
+Who is funding this research?
+--------------------------------------
+
+The research is funded through the UK Research and Innovation (UKRI) Horizon Europe guarantee scheme (10107071).
+
+
+Who has reviewed this research project?
+--------------------------------------
+
+The ethical approaches of this project have been approved via the University of Stirling General University Ethics Panel (GUEP).
+
+
+Who do I contact if I have concerns about this study or I wish to complain?
+--------------------------------------
+
+If you would like to discuss the research with someone, then please contact Dr Brad Duthie, Biological and Environmental Sciences, University of Stirling, FK9 4LA, UK (alexander.duthie@stir.ac.uk). 
+If you wish to make a complaint, then please contact the Dean of Faculty of Natural Sciences, Prof Alistair Jump, University of Stirling, FK9 4LA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
