@@ -1,0 +1,570 @@
+{
+  "meta": {
+    "level_id": "Mountain Pass",
+    "noOfRounds": "12",
+    "startTreasury": "0",
+    "startApproval": "50",
+    "timestamp": 1734310790,
+    "country": "US",
+    "user_id": "10c6aff3979141a6bddb0204f5321c7d",
+    "participation_code": "null"
+  },
+  "round": [
+    {
+      "roundNumber": 0,
+      "treasury": 1,
+      "population": 7,
+      "turn": [
+        {
+          "action": "CHOP",
+          "cost": "5",
+          "loc": {
+            "x": 7,
+            "y": 0
+          }
+        },
+        {
+          "action": "CHOP",
+          "cost": "5",
+          "loc": {
+            "x": 7,
+            "y": 0
+          }
+        },
+        {
+          "action": "CHOP",
+          "cost": "5",
+          "loc": {
+            "x": 7,
+            "y": 0
+          }
+        },
+        {
+          "action": "CHOP",
+          "cost": "5",
+          "loc": {
+            "x": 7,
+            "y": 0
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 3,
+            "y": 2
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 3,
+            "y": 3
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 2,
+            "y": 4
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 2,
+            "y": 4
+          }
+        },
+        {
+          "action": "CHOP",
+          "cost": "5",
+          "loc": {
+            "x": 1,
+            "y": 4
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 5,
+            "y": 7
+          }
+        }
+      ]
+    },
+    {
+      "roundNumber": 1,
+      "treasury": 6,
+      "population": 9,
+      "turn": [
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 3,
+            "y": 6
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 5,
+            "y": 4
+          }
+        },
+        {
+          "action": "CHOP",
+          "cost": "5",
+          "loc": {
+            "x": 4,
+            "y": 5
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 3,
+            "y": 1
+          }
+        },
+        {
+          "action": "CHOP",
+          "cost": "5",
+          "loc": {
+            "x": 13,
+            "y": 3
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 4,
+            "y": 2
+          }
+        },
+        {
+          "action": "CHOP",
+          "cost": "5",
+          "loc": {
+            "x": 13,
+            "y": 3
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 3,
+            "y": 2
+          }
+        }
+      ]
+    },
+    {
+      "roundNumber": 2,
+      "treasury": 2,
+      "population": 11,
+      "turn": [
+        {
+          "action": "PLANT_TREE",
+          "cost": "10",
+          "loc": {
+            "x": 3,
+            "y": 5
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 0,
+            "y": 5
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 5,
+            "y": 1
+          }
+        }
+      ]
+    },
+    {
+      "roundNumber": 3,
+      "treasury": 0,
+      "population": 13,
+      "turn": [
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 5,
+            "y": 3
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 1,
+            "y": 7
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 4,
+            "y": 8
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 4,
+            "y": 1
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 5,
+            "y": 1
+          }
+        }
+      ]
+    },
+    {
+      "roundNumber": 4,
+      "treasury": 1,
+      "population": 14,
+      "turn": [
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 1,
+            "y": 3
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 2,
+            "y": 2
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 2,
+            "y": 5
+          }
+        }
+      ]
+    },
+    {
+      "roundNumber": 5,
+      "treasury": 0,
+      "population": 16,
+      "turn": [
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 4,
+            "y": 5
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 6,
+            "y": 0
+          }
+        },
+        {
+          "action": "PLANT_TREE",
+          "cost": "10",
+          "loc": {
+            "x": 4,
+            "y": 5
+          }
+        }
+      ]
+    },
+    {
+      "roundNumber": 6,
+      "treasury": 3,
+      "population": 18,
+      "turn": [
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 1,
+            "y": 0
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 5,
+            "y": 5
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 5,
+            "y": 6
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 5,
+            "y": 0
+          }
+        }
+      ]
+    },
+    {
+      "roundNumber": 7,
+      "treasury": 2,
+      "population": 18,
+      "turn": [
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 7,
+            "y": 7
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 10,
+            "y": 5
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 7,
+            "y": 1
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 3,
+            "y": 0
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 9,
+            "y": 6
+          }
+        }
+      ]
+    },
+    {
+      "roundNumber": 8,
+      "treasury": 0,
+      "population": 19,
+      "turn": [
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 4,
+            "y": 4
+          }
+        },
+        {
+          "action": "PLANT_TREE",
+          "cost": "10",
+          "loc": {
+            "x": 5,
+            "y": 4
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 1,
+            "y": 2
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 4,
+            "y": 7
+          }
+        }
+      ]
+    },
+    {
+      "roundNumber": 9,
+      "treasury": 2,
+      "population": 20,
+      "turn": [
+        {
+          "action": "PLANT_TREE",
+          "cost": "10",
+          "loc": {
+            "x": 2,
+            "y": 2
+          }
+        },
+        {
+          "action": "PLANT_TREE",
+          "cost": "10",
+          "loc": {
+            "x": 4,
+            "y": 4
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 5,
+            "y": 0
+          }
+        }
+      ]
+    },
+    {
+      "roundNumber": 10,
+      "treasury": 1,
+      "population": 21,
+      "turn": [
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 1,
+            "y": 4
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 5,
+            "y": 5
+          }
+        },
+        {
+          "action": "PLANT_TREE",
+          "cost": "10",
+          "loc": {
+            "x": 2,
+            "y": 3
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 5,
+            "y": 2
+          }
+        },
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 9,
+            "y": 4
+          }
+        }
+      ]
+    },
+    {
+      "roundNumber": 11,
+      "treasury": 1,
+      "population": 22,
+      "turn": [
+        {
+          "action": "CLEAN",
+          "cost": "6",
+          "loc": {
+            "x": 8,
+            "y": 1
+          }
+        },
+        {
+          "action": "PLANT_TREE",
+          "cost": "10",
+          "loc": {
+            "x": 4,
+            "y": 0
+          }
+        },
+        {
+          "action": "PLANT_TREE",
+          "cost": "10",
+          "loc": {
+            "x": 6,
+            "y": 0
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 1,
+            "y": 3
+          }
+        },
+        {
+          "action": "FARM",
+          "cost": "3",
+          "loc": {
+            "x": 0,
+            "y": 3
+          }
+        }
+      ]
+    }
+  ]
+}
